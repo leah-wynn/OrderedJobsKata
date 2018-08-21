@@ -1,0 +1,8 @@
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/bin/Debug/netcoreapp2.0/OrderedJobs.deps.json
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/bin/Debug/netcoreapp2.0/OrderedJobs.dll
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/bin/Debug/netcoreapp2.0/OrderedJobs.pdb
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/obj/Debug/netcoreapp2.0/OrderedJobs.csproj.CoreCompileInputs.cache
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/obj/Debug/netcoreapp2.0/OrderedJobs.AssemblyInfoInputs.cache
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/obj/Debug/netcoreapp2.0/OrderedJobs.AssemblyInfo.cs
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/obj/Debug/netcoreapp2.0/OrderedJobs.dll
+/Users/leah/RiderProjects/OrderedJobs/OrderedJobs/obj/Debug/netcoreapp2.0/OrderedJobs.pdb

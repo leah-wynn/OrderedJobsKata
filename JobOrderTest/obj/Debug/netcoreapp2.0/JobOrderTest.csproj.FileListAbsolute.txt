@@ -1,0 +1,17 @@
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/JobOrderTest.deps.json
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/JobOrderTest.dll
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/JobOrderTest.pdb
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/OrderedJobs.dll
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/OrderedJobs.pdb
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/obj/Debug/netcoreapp2.0/JobOrderTest.csproj.CoreCompileInputs.cache
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/obj/Debug/netcoreapp2.0/JobOrderTest.AssemblyInfoInputs.cache
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/obj/Debug/netcoreapp2.0/JobOrderTest.AssemblyInfo.cs
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/obj/Debug/netcoreapp2.0/JobOrderTest.csproj.CopyComplete
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/obj/Debug/netcoreapp2.0/JobOrderTest.dll
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/obj/Debug/netcoreapp2.0/JobOrderTest.pdb
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/JobOrderTest.runtimeconfig.json
+/Users/leah/RiderProjects/OrderedJobs/JobOrderTest/bin/Debug/netcoreapp2.0/JobOrderTest.runtimeconfig.dev.json
